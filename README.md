@@ -17,7 +17,7 @@
 
 ## 📚 Sobre mim
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e busco desenvolver minhas habilidades através de projetos acadêmicos e pessoais.
+Atualmente curso Análise e Desenvolvimento de Sistemas focado em java e busco desenvolver minhas habilidades através de projetos acadêmicos e pessoais.
 
 Tenho conhecimentos em desenvolvimento web, lógica de programação, programação orientada a objetos e estruturas de dados.
 
@@ -31,4 +31,4 @@ Projetos utilizando HTML, CSS, JavaScript e React.
 
 ## 📫 Contato
 
-LinkedIn: seu_link_aqui
+LinkedIn: https://www.linkedin.com/in/kauan-pedro/
