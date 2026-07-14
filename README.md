@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e busco desenvolver minha carreira na área de tecnologia.
+Atualmente curso Análise e Desenvolvimento de Sistemas focado em java e busco desenvolver minha carreira na área de tecnologia.
 
 Possuo formação técnica em Informática, onde desenvolvi conhecimentos em JavaScript, TypeScript, HTML, CSS, React, Node.js, MySQL, lógica de programação, Programação Orientada a Objetos e estruturas de dados.
 
@@ -34,7 +34,7 @@ Tenho interesse em desenvolvimento de software, criação de aplicações web e 
 
 - ☕ Java
 - 🧱 Programação Orientada a Objetos
-- 🌐 Desenvolvimento Web
+- 🌐 Desenvolvimento de Sistemas/Desenvolvimento web
 - 🗄️ Banco de Dados
 
 ---
@@ -51,10 +51,10 @@ Projetos utilizando HTML, CSS, JavaScript e React.
 
 ## 📫 Entre em contato
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/kauan-pedro/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:kauanpedr7@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
